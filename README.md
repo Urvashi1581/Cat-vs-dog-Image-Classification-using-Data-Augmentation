@@ -1,1 +1,35 @@
 # Cat-vs-dog-Image-Classification-using-Data-Augmentation
+
+Overview
+
+This project performs binary image classification using Convolutional Neural Networks (CNN) to classify images as cats or dogs. The goal was to compare the performance of two CNN approaches on the same dataset.
+
+Dataset
+
+Dataset downloaded from Kaggle:
+Cats vs Dogs Dataset
+https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
+Outputs:
+<img width="1016" height="808" alt="image" src="https://github.com/user-attachments/assets/50f9b5dc-2286-4b00-ab8b-86ade56c6457" />
+
+
+Work Done
+
+Preprocessed images using resizing and normalization.
+
+Implemented a baseline CNN model.
+
+Implemented an improved CNN model using data augmentation and dropout.
+
+Trained and tested both models and compared results.
+
+Results
+
+Baseline CNN Accuracy: 62%
+
+Improved CNN Accuracy: 72.5%
+
+Tools Used
+
+Python, TensorFlow/Keras, NumPy, Matplotlib, Jupyter Notebook
