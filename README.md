@@ -13,6 +13,8 @@ https://www.kaggle.com/datasets/tongpython/cat-and-dog
 
 Outputs:
 <img width="1182" height="362" alt="image" src="https://github.com/user-attachments/assets/c52939b9-0d8c-4781-a888-01c31f7d9ff3" />
+<img width="1182" height="362" alt="image" src="https://github.com/user-attachments/assets/e83ec4e5-922b-48f7-8ec8-9deec2ffbf6a" />
+
 
 
 Work Done
