@@ -10,8 +10,9 @@ Dataset downloaded from Kaggle:
 Cats vs Dogs Dataset
 https://www.kaggle.com/datasets/tongpython/cat-and-dog
 
+
 Outputs:
-<img width="1016" height="808" alt="image" src="https://github.com/user-attachments/assets/50f9b5dc-2286-4b00-ab8b-86ade56c6457" />
+<img width="1182" height="362" alt="image" src="https://github.com/user-attachments/assets/c52939b9-0d8c-4781-a888-01c31f7d9ff3" />
 
 
 Work Done
